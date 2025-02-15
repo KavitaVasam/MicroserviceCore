@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroserviceMango", "MicroserviceMango\MicroserviceMango.csproj", "{BD92330F-A0FE-4141-8B4C-C5F2A24F97FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.GatewaySolution", "Mango.GatewaySolution\Mango.GatewaySolution.csproj", "{ABE8BF1F-9D31-49DD-A7B0-87FC10FD3D6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BD92330F-A0FE-4141-8B4C-C5F2A24F97FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD92330F-A0FE-4141-8B4C-C5F2A24F97FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD92330F-A0FE-4141-8B4C-C5F2A24F97FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE8BF1F-9D31-49DD-A7B0-87FC10FD3D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE8BF1F-9D31-49DD-A7B0-87FC10FD3D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE8BF1F-9D31-49DD-A7B0-87FC10FD3D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE8BF1F-9D31-49DD-A7B0-87FC10FD3D6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
